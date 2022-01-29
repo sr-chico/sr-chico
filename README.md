@@ -1,4 +1,4 @@
-## Olá, eu sou o Francisco, Data Engineer e Desenvolvedor 🤓
+## Olá, eu sou o Francisco, Data Engineer, Desenvolvedor e White hat 🤓
 
  
 <div> 
